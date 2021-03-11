@@ -1,0 +1,31 @@
+/********************* Tag Selector ************/
+h1{
+
+  color:red;
+  font-size: 30px;
+}
+
+
+img:hover{
+  background-color: black;
+}
+
+
+/******************* Class Selector **************/
+.greenapple{
+  background-color: red;
+}
+
+.redapple{
+  background-color: green;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+/******************* Id Selector **************/
+
+#heading{
+  color: blue;
+}
